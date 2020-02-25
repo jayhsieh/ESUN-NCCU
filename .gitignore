@@ -1,0 +1,8 @@
+/.vs/ESUN-Solid/
+*.pdb
+*.dll
+*.cache
+*.CopyComplete
+Debug
+sqlite3
+Release
